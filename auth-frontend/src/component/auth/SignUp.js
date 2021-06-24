@@ -80,16 +80,6 @@ export default function SignUp() {
     const data = await res.json();
     console.log(data.message);
     window.alert(data.message)
-    // res.redirect("/SignIn")
-    // if(!data){
-    //   window.alert("Invalid Registration");
-    //   console.log("Invalid Registration")
-    // }else{
-    //   window.alert("Registration Successfull");
-    //   console.log("Registration Successfull");
-
-    //   // res.redirect('/login')
-    // }
   }
 
 
