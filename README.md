@@ -1,1 +1,1 @@
-Authentication with Email-Id and Password.
+Auentication with Email-Id and Password.
